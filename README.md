@@ -1,47 +1,5 @@
 ﻿# healthy-living-mental-health
  wireframe for desctop snapshot
- {
-    "mockup": {
-        "controls": {
-            "control": [
-                {
-                    "ID": "59",
-                    "typeID": "TextInput",
-                    "zOrder": "0",
-                    "w": "409",
-                    "measuredW": "47",
-                    "measuredH": "27",
-                    "x": "195",
-                    "y": "1319",
-                    "properties": {
-                        "text": "Email"
-                    }
-                }
-            ]
-        },
-        "attributes": {
-            "name": "New Wireframe 1",
-            "order": 938428.5264654435,
-            "parentID": null,
-            "notes": "",
-            "trashed": false
-        },
-        "branchID": "Master",
-        "resourceID": "2278E287-509B-183B-1098-2EC38DDDB7D8",
-        "mockupH": "27",
-        "mockupW": "409",
-        "measuredW": "604",
-        "measuredH": "1346",
-        "version": "1.0",
-        "calloutsOffset": {
-            "x": 2,
-            "y": 0
-        }
-    },
-    "groupOffset": {
-        "x": 0,
-        "y": 0
-    },
-    "dependencies": [],
-    "projectID": "1543428710:1980788215"
-}
+ ![image](https://github.com/user-attachments/assets/96cb3e2c-3566-4d13-b6d3-f746aff86565)
+ ![image](https://github.com/user-attachments/assets/a64ce9d8-953c-41c6-9146-cc9da32194c9)
+
