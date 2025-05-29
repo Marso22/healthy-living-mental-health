@@ -1,6 +1,7 @@
 ﻿# healthy-living-mental-health
  wireframe for desktop - screenshot
- ![image](https://github.com/user-attachments/assets/96cb3e2c-3566-4d13-b6d3-f746aff86565)
+![image](https://github.com/user-attachments/assets/b64e4748-3176-4642-a66b-c8135e88da13)
+
 ![image](https://github.com/user-attachments/assets/ca83801a-d56b-42de-af71-ee5dd61303bc)
 
 
