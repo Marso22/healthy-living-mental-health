@@ -4,4 +4,5 @@
 ![image](https://github.com/user-attachments/assets/e417b337-222b-4a68-930f-6a62ffd9850c)
 
  wireframe for mobile - screenshot
-![image](https://github.com/user-attachments/assets/4e496ba8-292c-4681-aaf5-32554b22dc5a)
+![image](https://github.com/user-attachments/assets/da1b997f-f8fd-4b94-ba9b-ad1c4258a2b5)
+
