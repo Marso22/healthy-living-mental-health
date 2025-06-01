@@ -53,10 +53,19 @@
     <section class="container-fluid p-0">
         <div class="position-relative">
             <video class="w-100" autoplay loop playsinline muted poster="assets/images/HealthyLiving.webp"
-                style="max-height: 500px; max-width: 1440 px; object-fit: cover;" controls>
+                style="max-height: 500px; max-width: 1440 px; object-fit: cover;">
                 <source src="assets/images/MenthalHealth.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+            <button onclick="unmuteAndPlay()" style="margin-top: 10px;">Play with Sound</button>
+
+            <script>
+                function unmuteAndPlay() {
+                    const video = document.getElementById('myVideo');
+                    video.muted = false;
+                    video.play(); // in case it isn't already playing
+                }
+            </script>
             <div class="position-absolute top-50 start-50 translate-middle text-center text-white" style="width: 100%;">
                 <h1 class="display-4 fw-bold" style="text-shadow: 0 2px 8px rgba(0,0,0,0.5);">Healthy living promotes
                     mental health awareness</h1>
@@ -140,11 +149,11 @@
                     class="img-fluid rounded shadow w-100 h-auto" style="object-fit: cover; max-height: 300px;">
             </div>
             <!-- Tips Column -->
-            <div class="col-md-3 mb-4 mb-md-0">
+            <div class="col-md-3 mb-4 mb-md-0 text-center">
                 <div class="h-100 d-flex flex-column justify-content-center">
                     <h5 class="mb-3">Tips</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2">
+                        <li class="mb-2 ">
                             <span class="me-2 text-success"><i class="bi bi-flower2"></i></span>
                             Mindfulness exercises
                         </li>
@@ -158,7 +167,7 @@
             <!-- External Links/Buttons Column -->
             <div class="col-md-3 mb-4 mb-md-0">
                 <div class="h-100 d-flex flex-column justify-content-center">
-                    <h5 class="mb-3">Get Support</h5>
+                    <h5 class="mb-3 text-center">Get Support</h5>
                     <a href="https://www.samhsa.gov/find-help/national-helpline" target="_blank"
                         class="btn btn-outline-primary btn-sm mb-2 w-100">Helpline Numbers</a>
                     <a href="https://www.mhanational.org/mental-health-screening-tools" target="_blank"
@@ -168,7 +177,7 @@
                 </div>
             </div>
             <!-- Organizations Column -->
-            <div class="col-md-3">
+            <div class="col-md-3 text-center">
                 <div class="h-100 d-flex flex-column justify-content-center">
                     <h5 class="mb-3">Organizations</h5>
                     <a href="https://www.mentalhealth.gov/" target="_blank" class="d-block mb-2 text-decoration-none">
