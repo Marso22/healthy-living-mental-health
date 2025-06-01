@@ -52,18 +52,25 @@
     <!-- Hero Section -->
     <section class="container-fluid p-0">
         <div class="position-relative">
-            <video class="w-100" autoplay loop playsinline muted poster="assets/images/HealthyLiving.webp"
+            <video id="myVideo" class="w-100" autoplay loop playsinline muted poster="assets/images/HealthyLiving.webp"
                 style="max-height: 500px; max-width: 1440 px; object-fit: cover;">
                 <source src="assets/images/MenthalHealth.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+
             <button onclick="unmuteAndPlay()" style="margin-top: 10px;">Play with Sound</button>
+            <button onclick="muteVideo()" style="margin-top: 10px;">Mute</button>
 
             <script>
                 function unmuteAndPlay() {
                     const video = document.getElementById('myVideo');
                     video.muted = false;
-                    video.play(); // in case it isn't already playing
+                    video.play();
+                }
+
+                function muteVideo() {
+                    const video = document.getElementById('myVideo');
+                    video.muted = true;
                 }
             </script>
             <div class="position-absolute top-50 start-50 translate-middle text-center text-white" style="width: 100%;">
