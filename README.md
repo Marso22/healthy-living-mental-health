@@ -6,7 +6,11 @@ The live link can be found here: [Healthy Living promotes Mental Health Awarenes
 # Description
 
 'Healthy Living promotes Mental Health Awareness' is a fully responsive static HTML (style section is included into index.html <head> section) website designed to promote mental health awareness and support individuals on their journey to a healthier mind and lifestyle.
-![Mobile Screenshot](../images/mobilescreenshot.png)
+
+## Here is mobile view:                  Tablet view:                                          laptop view:
+<img src="assets/images/mobilescreenshot.png" width="100" />  <img src="assets/images/tabletscreenshot.png" width="200" />  <img src="assets/images/laptopscreenshot.png" width="300" />
+
+
 tabletscreenshot.png 
 laptopscreenshot.png
 largemonitorscreenshot.png
