@@ -53,4 +53,15 @@ By leveraging AI, the project was able to achieve a higher level of efficiency, 
 First user stories were described and Project Plan created accordingly.
 Then Colour Palette designed manually. The website uses shades of blue, often associated with trust, safety and green, often associated with helthy living.
 
+Next step was to outline shape of one-page website using wireframes.
+
+Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projets on LMS - Boardwalk Games, Sevenseas Spa.
+
+## Testing
+
+Code Validation
+
+HTML code was validated using the W3C Markup Validation Service. No errors found. Style section is within index.html.
+
+
 
