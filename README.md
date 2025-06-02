@@ -50,7 +50,7 @@ By leveraging AI, the project was able to achieve a higher level of efficiency, 
 
 # Website Deployment
 
-First user stories were created and Project Plan created accordingly.
+First user stories were described and Project Plan created accordingly.
 Then Colour Palette designed manually. The website uses shades of blue, often associated with trust, safety and green, often associated with helthy living.
 
 
