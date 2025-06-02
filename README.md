@@ -55,13 +55,20 @@ Then Colour Palette designed manually. The website uses shades of blue, often as
 
 Next step was to outline shape of one-page website using wireframes.
 
-Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projets on LMS - Boardwalk Games, Sevenseas Spa.
+Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projects on LMS - Boardwalk Games, Sevenseas Spa.
 
-## Testing
+# Testing
 
-Code Validation
+## Code Validation
 
 HTML code was validated using the W3C Markup Validation Service. No errors found. Style section is within index.html.
 
+## Lighthouse Testing
+
+Lighthouse was used to test the performance, accessibility, best practices, and SEO of the website. The results are as follows:
+
+![image](https://github.com/user-attachments/assets/fdbe4c94-1b63-41c3-a13d-20502ac2182d)
+
+Index.html: - Performance impacted by image sizes (even after optimized using Squoosh) and internet speed which is only 45 Mbps.
 
 
