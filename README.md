@@ -74,6 +74,8 @@ Best Practices result might be impacted by third party programs involved in some
 
 Deployed site can be found [here](https://marso22.github.io/healthy-living-mental-health/#)
 
+# Credits
+
 ## Content
 
 The content for this website was created by
