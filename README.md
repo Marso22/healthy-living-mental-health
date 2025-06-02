@@ -5,7 +5,9 @@ The live link can be found here: [Healthy Living promotes Mental Health Awarenes
 
 # Description
 
-'Healthy Living promotes Mental Health Awareness' is a fully responsive static HTML (style section is included into index.html <head> section) website designed to promote mental health awareness and support individuals on their journey to a healthier mind and lifestyle.
+- 'Healthy Living promotes Mental Health Awareness' is a fully responsive static HTML (style section is included into index.html <head> section) website designed to promote mental health awareness and support individuals on their journey to a healthier mind and lifestyle.
+- User seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
+- I want to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
 
 ### Here is Mobile, Tablet, Laptop and Large Monitor view:
 <img src="assets/images/mobilescreenshot.png" width="100" />  <img src="assets/images/tabletscreenshot.png" width="200" />  <img src="assets/images/laptopscreenshot.png" width="300" /> <img src="assets/images/largemonitorscreenshot.png" width="350" />
@@ -23,5 +25,32 @@ Before starting the project, a couple of basic wireframes were created to visual
 
  wireframe for mobile - screenshot
 ![image](https://github.com/user-attachments/assets/50c4f224-ce9b-42e7-81b9-00b4960c54e0)
+
+# How AI Was Used
+
+Artificial Intelligence played a significant role in the development of this project. Here are some ways how AI was used:
+
+## Code Generation
+
+AI tools like GitHub Copilot and ChatGPT were used to generate code snippets for various parts of the website. The AI provided context-aware suggestions that helped streamline the coding process and reduce development time.
+
+## Image Generation
+
+DALL-E, an AI model developed by OpenAI, was used to generate the images for the website.
+Canva online graphic design tool for creating visuals easily. 
+
+## Content Assistance
+
+AI tools like GitHub Copilot were used to assist in writing code and content for the website. These tools provided suggestions and auto-completions, which sped up the development process and ensured high-quality code.
+
+##Accessibility Improvements
+
+AI was used to analyze the website's accessibility features. Tools like Lighthouse provided insights into how accessible the website is for users with disabilities and suggested improvements to enhance user experience.
+By leveraging AI, the project was able to achieve a higher level of efficiency, creativity, and accessibility.
+
+# Website Deployment
+
+First user stories were created and Project Plan created accordingly.
+Then Colour Palette designed manually. The website uses shades of blue, often associated with trust, safety and green, often associated with helthy living.
 
 
