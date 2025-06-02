@@ -70,5 +70,17 @@ Lighthouse was used to test the performance, accessibility, best practices, and 
 ![image](https://github.com/user-attachments/assets/fdbe4c94-1b63-41c3-a13d-20502ac2182d)
 
 Index.html: - Performance impacted by image sizes (even after optimized using Squoosh) and internet speed which is only 45 Mbps.
+Best Practices result might be impacted by third party programs involved in some parts of website deployment.
 
+Deployed site can be found [here](https://marso22.github.io/healthy-living-mental-health/#)
 
+## Content
+
+The content for this website was created by
+- Copilot
+- On LMS available material
+- ChatGPT providing publicly available information
+
+## Media
+
+Images used in this project were generated using DALL-E, Canva and are used with permission.
