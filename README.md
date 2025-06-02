@@ -37,11 +37,11 @@ AI tools like GitHub Copilot and ChatGPT were used to generate code snippets for
 ## Image Generation
 
 DALL-E, an AI model developed by OpenAI, was used to generate the images for the website.
-Canva online graphic design tool was used for using existing image library and creating visuals easily. 
+Canva image library and online graphic design tool was used creating some images too. 
 
 ## Content Assistance
 
-AI tools like GitHub Copilot and ChatGPT were used to assist in writing code and content for the website. These tools provided suggestions and auto-completions, which sped up the development process and ensured high-quality code.
+AI tools like GitHub Copilot and ChatGPT were used to assist in writing code and creating content for the website. These tools provided suggestions and auto-completions, which sped up the development process and ensured high-quality code.
 
 ## Accessibility Improvements
 
@@ -50,12 +50,12 @@ By leveraging AI, the project was able to achieve a higher level of efficiency, 
 
 # Website Deployment
 
-First user stories were described and Project Plan created accordingly.
+First of all user stories were described and Project Plan created accordingly.
 Then Colour Palette designed manually. The website uses shades of blue, often associated with trust, safety and green, often associated with helthy living.
 
 Next step was to outline shape of one-page website using wireframes.
 
-Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projects on LMS - Boardwalk Games, Sevenseas Spa. For Starting Hero section decided to use video. It starts automatically when site is opened. Audio has to be turned on if wanted. There is an option to Mute sound. To enable video and audio feature ChatGPT AI suggested to use JS script.
+Then opened empty index.html and started to code using GitHub Copilot. During implementation used aquired experience from previous projects on LMS - Boardwalk Games, Sevenseas Spa. For Starting Hero section decided to use video with audio track. It starts automatically when site is opened. Audio has to be turned on if wanted. There is an option to Mute it later. To enable video and audio feature ChatGPT AI suggested to use JS script. Navbar was fixed at the top and visible all the time when scrolling to make easy and comfortable use of content. Navbar links let jump to specific section. At the end user can fill in contact form and join community of people with similar aspirations.
 
 # Testing
 
