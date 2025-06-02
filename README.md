@@ -37,13 +37,13 @@ AI tools like GitHub Copilot and ChatGPT were used to generate code snippets for
 ## Image Generation
 
 DALL-E, an AI model developed by OpenAI, was used to generate the images for the website.
-Canva online graphic design tool for creating visuals easily. 
+Canva online graphic design tool was used for using existing image library and creating visuals easily. 
 
 ## Content Assistance
 
-AI tools like GitHub Copilot were used to assist in writing code and content for the website. These tools provided suggestions and auto-completions, which sped up the development process and ensured high-quality code.
+AI tools like GitHub Copilot and ChatGPT were used to assist in writing code and content for the website. These tools provided suggestions and auto-completions, which sped up the development process and ensured high-quality code.
 
-##Accessibility Improvements
+## Accessibility Improvements
 
 AI was used to analyze the website's accessibility features. Tools like Lighthouse provided insights into how accessible the website is for users with disabilities and suggested improvements to enhance user experience.
 By leveraging AI, the project was able to achieve a higher level of efficiency, creativity, and accessibility.
@@ -55,7 +55,7 @@ Then Colour Palette designed manually. The website uses shades of blue, often as
 
 Next step was to outline shape of one-page website using wireframes.
 
-Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projects on LMS - Boardwalk Games, Sevenseas Spa.
+Then opened empty index.html and started to code using GitHub Copilot. Used aquired experience from previous projects on LMS - Boardwalk Games, Sevenseas Spa. For Starting Hero section decided to use video. It starts automatically when site is opened. Audio has to be turned on if wanted. There is an option to Mute sound. To enable video and audio feature ChatGPT AI suggested to use JS script.
 
 # Testing
 
@@ -69,7 +69,7 @@ Lighthouse was used to test the performance, accessibility, best practices, and 
 
 ![image](https://github.com/user-attachments/assets/fdbe4c94-1b63-41c3-a13d-20502ac2182d)
 
-Index.html: - Performance impacted by image sizes (even after optimized using Squoosh) and internet speed which is only 45 Mbps.
+Index.html: - Performance impacted by image sizes (even after optimized by Squoosh.app) and internet speed which is only 45 Mbps.
 Best Practices result might be impacted by third party programs involved in some parts of website deployment.
 
 Deployed site can be found [here](https://marso22.github.io/healthy-living-mental-health/#)
@@ -79,10 +79,10 @@ Deployed site can be found [here](https://marso22.github.io/healthy-living-menta
 ## Content
 
 The content for this website was created by
-- Copilot
+- GitHub Copilot
 - On LMS available material
 - ChatGPT providing publicly available information
 
 ## Media
 
-Images used in this project were generated using DALL-E, Canva and are used with permission.
+Images used in this project were generated using DALL-E and taken from Canva library with permission.
