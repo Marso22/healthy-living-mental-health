@@ -7,7 +7,7 @@ The live link can be found here: [Healthy Living promotes Mental Health Awarenes
 
 - 'Healthy Living promotes Mental Health Awareness' is a fully responsive static HTML (style section is included into index.html <head> section) website designed to promote mental health awareness and support individuals on their journey to a healthier mind and lifestyle.
 - User seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
-- I want to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
+- I wanted to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
 
 ### Here is Mobile, Tablet, Laptop and Large Monitor view:
 <img src="assets/images/mobilescreenshot.png" width="100" />  <img src="assets/images/tabletscreenshot.png" width="200" />  <img src="assets/images/laptopscreenshot.png" width="300" /> <img src="assets/images/largemonitorscreenshot.png" width="350" />
