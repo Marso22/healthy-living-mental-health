@@ -38,6 +38,7 @@ AI tools like GitHub Copilot and ChatGPT were used to generate code snippets for
 
 DALL-E, an AI model developed by OpenAI, was used to generate the images for the website.
 Canva image library and online graphic design tool was used creating some images too. 
+Invideo video editing tool used for Hero video design.
 
 ## Content Assistance
 
@@ -86,3 +87,4 @@ The content for this website was created by
 ## Media
 
 Images used in this project were generated using DALL-E and taken from Canva library with permission.
+Hero video made with Invideo video editing tool for which I have subscription.
