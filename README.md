@@ -12,7 +12,7 @@ The live link can be found here: [Healthy Living promotes Mental Health Awarenes
 ### Here is Mobile, Tablet, Laptop and Large Monitor view:
 <img src="assets/images/mobilescreenshot.png" width="100" />  <img src="assets/images/tabletscreenshot.png" width="200" />  <img src="assets/images/laptopscreenshot.png" width="300" /> <img src="assets/images/largemonitorscreenshot.png" width="350" />
 
-
+![image](https://ui.dev/amiresponsive?url=https://marso22.github.io/healthy-living-mental-health/#)
 
 
 # Wireframes
@@ -22,7 +22,6 @@ Before starting the project, a couple of basic wireframes were created to visual
 ![image](https://github.com/user-attachments/assets/b64e4748-3176-4642-a66b-c8135e88da13)
 ![image](https://github.com/user-attachments/assets/89845644-8188-40cd-8301-80f37b164322)
 
-![image](https://ui.dev/amiresponsive?url=https://marso22.github.io/healthy-living-mental-health/#)
 
  wireframe for mobile - screenshot
 ![image](https://github.com/user-attachments/assets/50c4f224-ce9b-42e7-81b9-00b4960c54e0)
