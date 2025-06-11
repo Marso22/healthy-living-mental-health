@@ -12,7 +12,7 @@ The live link can be found here: [Healthy Living promotes Mental Health Awarenes
 ### Here is Mobile, Tablet, Laptop and Large Monitor view:
 <img src="assets/images/mobilescreenshot.png" width="100" />  <img src="assets/images/tabletscreenshot.png" width="200" />  <img src="assets/images/laptopscreenshot.png" width="300" /> <img src="assets/images/largemonitorscreenshot.png" width="350" />
 
-<img src="assets/images/responsivePNG2.png" width="400" />
+<img src="assets/images/responsivePNG2.png" width="800" />
 
 
 # Wireframes
